@@ -1,0 +1,1 @@
+The sentry handler provides a handler for datadog which sends events to the [Datadog](http://datadoghq.com) service.
